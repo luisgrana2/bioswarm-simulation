@@ -1,0 +1,29 @@
+{
+    "Option_1_Consensus_Leaderless": {
+        "max_speed": 6.425355973496088,
+        "rep_radius": 14.18741806115291,
+        "rep_weight": 2.185224854379707,
+        "param_a": 0.3583092591615965,
+        "param_b": 2.8471534870558055,
+        "param_c": -1.931779083090989,
+        "final_error": 100000.0
+    },
+    "Option_2_Fixed_Leader": {
+        "max_speed": 4.206960137029261,
+        "rep_radius": 14.77523575985771,
+        "rep_weight": 4.17484741311038,
+        "param_a": 1.5455408413550054,
+        "param_b": 2.150552936188202,
+        "param_c": 3.13657659750858,
+        "final_error": 100000.0
+    },
+    "Option_3_Dynamic_Leader": {
+        "max_speed": 6.791309986804303,
+        "rep_radius": 11.651176695242269,
+        "rep_weight": 1.555448093641075,
+        "param_a": 0.9853342925216844,
+        "param_b": 1.290432349506244,
+        "param_c": 1.1262052606699149,
+        "final_error": 100000.0
+    }
+}
