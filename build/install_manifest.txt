@@ -1,2 +1,0 @@
-/home/luisgs44/pigeon_simulation/install/bin/simulator
-/home/luisgs44/pigeon_simulation/install/bin/simulator_fixed

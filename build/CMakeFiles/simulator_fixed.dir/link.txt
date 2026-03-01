@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/simulator_fixed.dir/src/main_fixed.cpp.o -o simulator_fixed 
